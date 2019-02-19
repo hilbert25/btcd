@@ -227,12 +227,13 @@ var MainNetParams = Params{
 	Net:         wire.MainNet,
 	DefaultPort: "8333",
 	DNSSeeds: []DNSSeed{
-		{"seed.bitcoin.sipa.be", true},
-		{"dnsseed.bluematt.me", true},
-		{"dnsseed.bitcoin.dashjr.org", false},
-		{"seed.bitcoinstats.com", true},
-		{"seed.bitnodes.io", false},
-		{"seed.bitcoin.jonasschnelli.ch", true},
+		{"47.94.167.107",true},// ALi ip
+		// {"seed.bitcoin.sipa.be", true},
+		// {"dnsseed.bluematt.me", true},
+		// {"dnsseed.bitcoin.dashjr.org", false},
+		// {"seed.bitcoinstats.com", true},
+		// {"seed.bitnodes.io", false},
+		// {"seed.bitcoin.jonasschnelli.ch", true},
 	},
 
 	// Chain parameters
