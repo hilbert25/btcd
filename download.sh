@@ -26,6 +26,7 @@ cd ../../github.com
 git clone git@github.com:golang/protobuf.git golang/protobuf
 git clone git@github.com:lightninglabs/gozmq.git lightninglabs/gozmq
 git clone git@github.com:lightninglabs/neutrino.git lightninglabs/neutrino
+git clone git@github.com:lightningnetwork/lnd.git lightningnetwork/lnd
 
 cd ..
 git clone git@github.com:grpc/grpc-go.git google.golang.org/grpc
